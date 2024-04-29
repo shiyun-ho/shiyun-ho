@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shi Yun</h1>
 <h3 align="center">I'm an eager Software Engineer in Test who is an avid enthusiast in development and geospatial analytics. Hungry to learn and contribute across development, testing and geospatial analysis domains. </h3>
   
-<h4> I've been found guilty of indulging in the blackhole of reading up on niche areas of tech. 🫣 </h4>
+<h4 align="center"> I've been found guilty of indulging in the blackhole of reading up on niche areas of tech.🫣 </h4>
+
 
 
 - 💡 I'm currently fascinated about **how callstacks work, monads, intricacies of tail recursion, xz backdoor**
