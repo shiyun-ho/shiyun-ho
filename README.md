@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shi Yun</h1>
-<h3 align="center">I'm an eager Software Engineer in Test who is an avid enthusiast in development and geospatial analytics. Hungry to learn and contribute across development, testing and geospatial analysis domains. </h3>
-  
-<h4 align="center"> I've been found guilty of indulging in the blackhole of reading up on niche areas of tech.🫣 </h4>
+<h3 align="center">I'm a Software Engineer in Test who is an avid enthusiast in development and geospatial analytics. Hungry to learn and contribute to development, testing and geospatial analysis domains. </h3>
+<h6 align="center"> I've been found guilty of indulging in the blackhole of reading up on niche areas of tech.🫣 </h6>
 
 
 
