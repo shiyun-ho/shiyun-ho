@@ -8,7 +8,8 @@
 - 🔭 I’m currently working on [Javascript Exercises](https://github.com/shiyun-ho/javascript-exercises) and Data Structure and Algorithms courses by Georgia Tech
 - 🌱 I’m currently learning **Springboot, React, CI/CD, DevOps, C**
 - 👨‍💻 All of my projects are available at [https://github.com/shiyun-ho?tab=repositories](https://github.com/shiyun-ho?tab=repositories)
-- 📝 I regularly write articles on [https://dev.to/sereneh](https://dev.to/sereneh)
+- 📝 I regularly write articles on [Medium](https://medium.com/@serene.hoshiyun)
+- 📝 My latest article on [A Hitchhiker’s Guide to Surviving 42 School While Working Full Time](https://medium.com/@serene.hoshiyun/a-hitchhikers-guide-to-surviving-42-school-while-working-full-time-9aa99728c3ee)
 - 💬 Ask me about **Testing, Geospatial Analysis**
 - 📫 How to reach me **serene.hoshiyun@gmail.com**
 - ⚡ Fun fact **I am a big fan of musicals! 🎵🎵**
