@@ -5,7 +5,7 @@
 
 
 - 💡 I'm currently fascinated about **how callstacks work, monads, intricacies of tail recursion, xz backdoor**
-- 🔭 I’m currently working on [Javascript Exercises](https://github.com/shiyun-ho/javascript-exercises)
+- 🔭 I’m currently working on [Javascript Exercises](https://github.com/shiyun-ho/javascript-exercises) and Data Structure and Algorithms courses by Georgia Tech
 - 🌱 I’m currently learning **Springboot, React, CI/CD, DevOps, C**
 - 👨‍💻 All of my projects are available at [https://github.com/shiyun-ho?tab=repositories](https://github.com/shiyun-ho?tab=repositories)
 - 📝 I regularly write articles on [https://dev.to/sereneh](https://dev.to/sereneh)
