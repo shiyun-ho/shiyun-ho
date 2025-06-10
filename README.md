@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shi Yun</h1>
-<h3 align="center">A Software Engineer in Test who has a penchant for sharing about tech with others. Hungry to learn and contribute to development, testing and geospatial analysis domains. </h3>
+<h3 align="center">Software Engineer and ex SDET who has a penchant for sharing about tech with others. Hungry to learn and contribute to development, testing and geospatial analysis domains. </h3>
 <h6 align="center"> I've been found guilty of indulging in the blackhole of reading up on niche areas of tech.🫣 </h6>
 
 
 
-- 💡 I'm currently fascinated about **how callstacks work, monads, intricacies of tail recursion, xz backdoor**
-- 🔭 I’m currently working on [Javascript Exercises](https://github.com/shiyun-ho/javascript-exercises) and Data Structure and Algorithms courses by Georgia Tech
-- 🌱 I’m currently learning **Springboot, React, CI/CD, DevOps, C**
+- 💡 I'm currently fascinated about **Vim, neoVim, building LLM applications, and ansible playbooks**
+- 🔭 I’m currently working on [Nextjs Fundamentals](https://frontendmasters.com/courses/next-js-v4/static-pages/) and [Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms)
+- 🌱 I’m currently learning **Springboot, React, NextJS, CI/CD, DevOps, C**
 - 👨‍💻 All of my projects are available at [https://github.com/shiyun-ho?tab=repositories](https://github.com/shiyun-ho?tab=repositories)
-- 📝 I regularly write articles on [Medium](https://medium.com/@serene.hoshiyun)
+- 📝 I occasionally write articles on [Medium](https://medium.com/@serene.hoshiyun)
 - 📝 My latest article on [A Hitchhiker’s Guide to Surviving 42 School While Working Full Time](https://medium.com/@serene.hoshiyun/a-hitchhikers-guide-to-surviving-42-school-while-working-full-time-9aa99728c3ee)
-- 💬 Ask me about **Testing, Geospatial Analysis**
+- 💬 Ask me about **Software Development, Testing, Geospatial Analysis**
 - 📫 How to reach me **serene.hoshiyun@gmail.com**
 - ⚡ Fun fact **I am a big fan of musicals! 🎵🎵**
 
